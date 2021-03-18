@@ -7,12 +7,14 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "postinstall": "npm run build",
-    "start": "node server.js",
+    "start": "node server.js"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "express": "^4.17.1",
+    "server-static": "^2.0.5",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
   },
