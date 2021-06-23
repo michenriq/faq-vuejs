@@ -1,4 +1,7 @@
 # frontend-vuex
+The objective of this project is apply my adquired knowlodges in CSS Grid, VueJS 3 and Vuex .
+
+This is a simple FAQ with a beautilull design.
 
 ## Project setup
 ```
