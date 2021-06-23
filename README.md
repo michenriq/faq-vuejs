@@ -3,6 +3,9 @@ The objective of this project is apply my adquired knowlodges in CSS Grid, VueJS
 
 This is a simple FAQ with a beautilull design.
 
+## [**Link to demo **](https://michenrique-vuex.herokuapp.com/)
+
+
 ## Project setup
 ```
 npm install
